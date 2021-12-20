@@ -7,3 +7,5 @@ Balance Study & shift work sechdule
 -Extra option for beeper / notification for mobile at later stage
 -Simple clean 1 slide
 -Login access same as other 
+
+-Road map before studie starts | Prep when timetable comes out
